@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "臨時告解",
+  "base_artist": "m.e.g works",
+  "createdAt": "2026-01-06T09:03:43.837275Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "臨時告解 (feat. 初音ミク)",
+      "artist": "m.e.g works",
+      "has_synced": false,
+      "path": "select/pl_01_臨時告解_(feat._初音ミク)_m.e.g_works.txt"
+    }
+  ]
+}
